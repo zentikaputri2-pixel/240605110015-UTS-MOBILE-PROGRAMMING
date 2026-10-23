@@ -30,16 +30,6 @@ This project demonstrates how to fetch data from a REST API, convert JSON respon
 
 ---
 
-## 📸 Screenshots
-
-> Put your screenshots in a `screenshots/` folder, then update the file names below.
-
-| Surah List (Home) | Surah Detail |
-|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) |
-
----
-
 ## 🛠️ Technologies Used
 
 - **Flutter** – UI framework (Material Design 3, `colorSchemeSeed: Colors.teal`)
